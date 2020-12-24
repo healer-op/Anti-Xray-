@@ -1,7 +1,7 @@
 #========================================================================
 #5 STAR RATING?
 #1.16.X VERSION					
-# Link: https://www.spigotmc.org/resources/anti-xray.68465/
+# Link: https://www.spigotmc.org/resources/anti-xray-standalone-minecraft-1-8-1-16-x.87039/
 #
 # H E A L E R > > _ < <
 #=========================================================================
@@ -1401,5 +1401,5 @@ on join:
 	wait 3 seconds
 	if player is op:
 		if text from "https://pastebin.com/raw/w0MjpAeC" is not "{@Version}":
-			send "{@prefix} &ehas been updated! <tooltip: &8[&6Download the newest version now!&8]><link:https://www.spigotmc.org/resources/anti-xray.68465/>&8[&aCLICK ME&8]"
+			send "{@prefix} &ehas been updated! <tooltip: &8[&6Download the newest version now!&8]><link:https://www.spigotmc.org/resources/anti-xray-standalone-minecraft-1-8-1-16-x.87039/>&8[&aCLICK ME&8]"
 			stop
