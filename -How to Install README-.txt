@@ -10,7 +10,7 @@
                          ⓑⓨ ⓗⓔⓐⓛⓔⓡ
 =-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=
 
-Place the "skript.jar" and "skquery.jar" into your plugins folder and restart your server.
+Place the "skript.jar" and "antixray+.jar" into your plugins folder and restart your server.
 After restarting the server, a Skript folder will load. 
 Go into "Skript" > "scripts". Once in "scripts" folder, place the "AntiXrayListner.sk" into "scripts" folder.
 Go in game and type "/sk reload axr"
